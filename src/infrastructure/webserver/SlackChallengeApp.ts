@@ -1,4 +1,4 @@
-import { Server } from './server';
+import { Server } from './Server';
 
 export class SlackChallengeApp {
   server?: Server;
